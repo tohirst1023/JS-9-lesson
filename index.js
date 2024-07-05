@@ -8,7 +8,7 @@ btn.addEventListener("click", function(event){
     if (idnumber.value === "12345"  && password.value === "12345"){
         alert("Siz Mars space ga muvafiqiayatliy krdingiz")
     }else {
-        alert("Id yoki parol xato")
+        alert("Id yoki parol xato terilgan")
     }
     
 });
